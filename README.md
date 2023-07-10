@@ -1,6 +1,7 @@
 ### Hi! ✌️ I'm Niklas
-<br>
+    
 💻 currently working as a C++ developer
+<br>
 🔭 learing different stuff in my free time
 
 <!--
