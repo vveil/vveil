@@ -1,5 +1,8 @@
 ### Hi! ✌️ I'm Niklas
 
+- 💻 currently working as a C++ developer
+- 🔭 learing different stuff in my free time
+
 <!--
 **vveil/vveil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
