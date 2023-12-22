@@ -4,7 +4,7 @@
 <br>
 🔭 learning Swift and SolidJS
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=vveil&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=vveil&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&hide_total_contributions=true)](https://git.io/streak-stats)
 
 <!--
 **vveil/vveil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
