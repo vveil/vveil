@@ -1,6 +1,6 @@
 ### Hi! ✌️ I'm Niklas
     
-💻 currently working as a C++ developer
+💻 currently working as senior C++ dev
 <br>
 🔭 learning Swift and SolidJS
 
