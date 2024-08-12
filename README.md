@@ -2,11 +2,13 @@
     
 💻 currently working as senior C++ dev
 <br>
-🔭 learning Swift and SolidJS
+🔭 currently reading _Writing An Interpreter In Go by Thorsten Ball_ [(link)](https://interpreterbook.com/)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=vveil&theme=dark&hide_border=false&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
 
 <!--
+[![GitHub Streak](https://streak-stats.demolab.com?user=vveil&theme=dark&hide_border=false&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
 **vveil/vveil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 &hide_total_contributions=true
 
