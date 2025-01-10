@@ -2,7 +2,7 @@
     
 💻 currently working as senior C++ dev
 <br>
-🔭 currently reading _Writing An Interpreter In Go by Thorsten Ball_ [(link)](https://interpreterbook.com/)
+
 
 
 
@@ -22,5 +22,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🔭 currently reading _Writing An Interpreter In Go by Thorsten Ball_ [(link)](https://interpreterbook.com/)
 -->
 
